@@ -1,4 +1,6 @@
 ## OLÁ, MEU NOME É JOÃO CARLOS D. M. NETO, SEJA BEM VINDO AO MEU GITHUB..... 👋
+# Atualmente estou estudando JavaScript e React. 
+# Sou Programador FRONT-END  e meu objetivo é me tornar desenvolvedor Full-Satack!!!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlosDurateMNeto&show_icons=true&theme=dark)
@@ -16,6 +18,10 @@
 </div>
   
   ##
+
+<div>
+   <img alt="meuLinkedin" href="#" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
 
  <!--
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
