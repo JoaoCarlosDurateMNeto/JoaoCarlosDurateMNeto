@@ -20,7 +20,9 @@
   ##
 
 <div>
-   <img alt="meuLinkedin" href="#" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="#" target="_blank">
+     <img alt="meuLinkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
 </div>
 
  <!--
