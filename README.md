@@ -1,6 +1,5 @@
 ### OLÁ, MEU NOME É JOÃO CARLOS D. M. NETO, SEJA BEM VINDO AO MEU GITHUB..... 👋
-<p>Atualmente estou estudando JavaScript e React.</p>
-<p>Sou Programador FRONT-END  e meu objetivo é me tornar desenvolvedor Full-Satack!!!</p>
+<p>Atualmente faço engenharia de controles e automação na UFSC-BLM</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlosDurateMNeto&show_icons=true&theme=dark)
@@ -8,13 +7,10 @@
 
 
 <div style="display: inline_block"> <br>
-  
- ## Aprendido:
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
- ## Estudando:
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+       ## ESTUDANDO: 
+          <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">/
+          <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">/
+          <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
   ##
