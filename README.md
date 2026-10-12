@@ -1,6 +1,8 @@
 # 👩🏻‍💻 João Carlos
 
+<!--
 **`Desenvolvedora FullStack e Analista de dados`**
+-->
 
 Me chamo João Carlos Duarte Martins Neto, tenho 21 anos e sou natural do Rio Grande do Sul. E estou cursando Engenharia de Controle e Automação na UFSC - Blumenau, gosto de trabalhar com analise de dados e criação de sites web. 
 <!--
@@ -56,6 +58,8 @@ Me chamo João Carlos Duarte Martins Neto, tenho 21 anos e sou natural do Rio Gr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<!-- 
 <img 
     align="left" 
     alt="JavaScript" 
@@ -152,6 +156,7 @@ Me chamo João Carlos Duarte Martins Neto, tenho 21 anos e sou natural do Rio Gr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+-->
 
 <br/>
 <br/>
