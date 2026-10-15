@@ -41,7 +41,7 @@ Me chamo João Carlos Duarte Martins Neto, tenho 21 anos e sou natural do Rio Gr
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+    
 <img 
     align="left" 
     alt="HTML"
@@ -58,6 +58,7 @@ Me chamo João Carlos Duarte Martins Neto, tenho 21 anos e sou natural do Rio Gr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 
 <!-- 
 <img 
